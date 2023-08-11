@@ -1,0 +1,20 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 11 Aug 2023 18:16:31 GMT
+ */
+
+:root {
+  --token-set-order-0: global;
+  --carpenter-corner-core-null: 0;
+  --carpenter-corner-core-xs: 4;
+  --carpenter-corner-core-up-xs: 4,4,0,0;
+  --carpenter-corner-core-up-l: 16,16,0,0;
+  --carpenter-corner-core-up-xl: 28,28,0,0;
+  --carpenter-corner-core-s: 8;
+  --carpenter-corner-core-m: 12;
+  --carpenter-corner-core-l: 16;
+  --carpenter-corner-core-down-l: 0,16,16,0;
+  --carpenter-corner-core-xl: 28;
+  --carpenter-corner-core-left-l: 0,16,16,0;
+  --carpenter-corner-core-full: 100;
+}
