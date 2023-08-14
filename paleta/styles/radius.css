@@ -6,8 +6,8 @@
   --carpenter-corner-core-xs: 4;
   --carpenter-corner-core-up-xs: 4,4,0,0;
   --carpenter-corner-core-up-l: 16,16,0,0;
-  --carpenter-corner-core-up-xl: 28,28,0,0;
-  --carpenter-corner-core-s: 8;
+  --carpenter-corner-core-up-xl: 28px 28px 0px 0px;
+  --carpenter-corner-core-s: 8px;
   --carpenter-corner-core-m: 12;
   --carpenter-corner-core-l: 16;
   --carpenter-corner-core-down-l: 0,16,16,0;
