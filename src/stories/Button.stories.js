@@ -29,17 +29,3 @@ export const Secondary = {
     label: 'Button',
   },
 };
-
-export const Large = {
-  args: {
-    size: 'large',
-    label: 'Button',
-  },
-};
-
-export const Small = {
-  args: {
-    size: 'small',
-    label: 'Button',
-  },
-};
