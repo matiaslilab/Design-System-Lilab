@@ -1,17 +1,15 @@
 
 
 :root {
-  --token-set-order-0: global;
-  --carpenter-corner-core-null: 0;
-  --carpenter-corner-core-xs: 4;
-  --carpenter-corner-core-up-xs: 4,4,0,0;
-  --carpenter-corner-core-up-l: 16,16,0,0;
-  --carpenter-corner-core-up-xl: 28px 28px 0px 0px;
-  --carpenter-corner-core-s: 8px;
-  --carpenter-corner-core-m: 12;
-  --carpenter-corner-core-l: 16;
-  --carpenter-corner-core-down-l: 0,16,16,0;
-  --carpenter-corner-core-xl: 28;
-  --carpenter-corner-core-left-l: 0,16,16,0;
-  --carpenter-corner-core-full: 100;
+  --sdGlobalCarpenterCornerCoreNull: 0;
+  --sdGlobalCarpenterCornerCoreXs4px025rem: 0.25rem;
+  --sdGlobalCarpenterCornerCoreUpXs4px025rem: 0.25rem 0.25rem 0rem 0rem;
+  --sdGlobalCarpenterCornerCoreUpL16px1rem: 1rem 1rem 0rem 0rem;
+  --sdGlobalCarpenterCornerCoreUpXl28px175rem: 1.75rem 1.75rem 0rem 0rem;
+  --sdGlobalCarpenterCornerCoreS8px05rem: 0.5rem;
+  --sdGlobalCarpenterCornerCoreM12px075rem: 0.75rem;
+  --sdGlobalCarpenterCornerCoreL16px1rem: 1rem;
+  --sdGlobalCarpenterCornerCoreXl28px175rem: 1.75rem;
+  --sdGlobalCarpenterCornerCoreLeftL16px1rem: 0rem 1rem 1rem 0rem;
+  --sdGlobalCarpenterCornerCoreFull: 100%;
 }

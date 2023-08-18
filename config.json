@@ -4,20 +4,13 @@
   ],
   "platforms": {
     "css": {
-      "transformGroup": "css",
+      "transformGroup": "tokens-studio",
+      "prefix": "sd",
+      "buildPath": "build/css/",
       "files": [
         {
           "destination": "paleta/css/variables.css",
           "format": "css/variables"
-        }
-      ]
-    },
-    "scss": {
-      "transformGroup": "scss",
-      "files": [
-        {
-          "destination": "paleta/scss/variables.scss",
-          "format": "scss/variables"
         }
       ]
     }
