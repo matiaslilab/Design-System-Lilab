@@ -1,9 +1,0 @@
-@import url('../paleta/css/variables.css');
-
-.button-primary {
-  background-color: var(--material-theme-sys-light-primary);
-  color: var(--material-theme-sys-light-on-primary);
-  border: none;
-  padding: 10px 15px;
-  border-radius: 25px;
-}
