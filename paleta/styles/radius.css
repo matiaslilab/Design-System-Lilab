@@ -1,15 +1,15 @@
 
 
-:root {
-  --sdGlobalCarpenterCornerCoreNull: 0;
-  --sdGlobalCarpenterCornerCoreXs4px025rem: 0.25rem;
-  --sdGlobalCarpenterCornerCoreUpXs4px025rem: 0.25rem 0.25rem 0rem 0rem;
-  --sdGlobalCarpenterCornerCoreUpL16px1rem: 1rem 1rem 0rem 0rem;
-  --sdGlobalCarpenterCornerCoreUpXl28px175rem: 1.75rem 1.75rem 0rem 0rem;
-  --sdGlobalCarpenterCornerCoreS8px05rem: 0.5rem;
-  --sdGlobalCarpenterCornerCoreM12px075rem: 0.75rem;
-  --sdGlobalCarpenterCornerCoreL16px1rem: 1rem;
-  --sdGlobalCarpenterCornerCoreXl28px175rem: 1.75rem;
-  --sdGlobalCarpenterCornerCoreLeftL16px1rem: 0rem 1rem 1rem 0rem;
-  --sdGlobalCarpenterCornerCoreFull: 100%;
+:root{
+--carpenter-layout-core-corner-null: 0;
+--carpenter-layout-core-corner-xs-4-px-025-rem: 0.25rem;
+--carpenter-layout-core-corner-up-xs-4-px-025-rem: 0.25rem 0.25rem 0rem 0rem;
+--carpenter-layout-core-corner-up-l-16-px-1-rem: 1rem 1rem 0rem 0rem;
+--carpenter-layout-core-corner-up-xl-28-px-175-rem: 1.75rem 1.75rem 0rem 0rem;
+--carpenter-layout-core-corner-s-8-px-05-rem: 0.5rem;
+--carpenter-layout-core-corner-m-12-px-075-rem: 0.75rem;
+--carpenter-layout-core-corner-l-16-px-1-rem: 1rem;
+--carpenter-layout-core-corner-xl-28-px-175-rem: 1.75rem;
+--carpenter-layout-core-corner-left-l-16-px-1-rem: 0rem 1rem 1rem 0rem;
+--carpenter-layout-core-corner-full: 100%;
 }
