@@ -5,7 +5,7 @@ import "./carpenter-button.css";
 export const CarpenterButton = ({ label, enable }) => {
   const mode = enable ? "primary--enable" : "primary--disable";
   return (
-    <button type="button" className={["primary", mode].join(" ")}>
+    <button type="button" className={"primary enable"}>
       <span className="label">{label}</span>
     </button>
   );
